@@ -7,7 +7,7 @@
 
 int main()
 {
-  char *filename = "image.jpg";
+  char *filename = "mandrill.jpg";
   int imageWidth = 0;
 
   imageWidth  = readHeader(filename, IMAGE_WIDTH);

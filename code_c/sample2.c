@@ -11,7 +11,7 @@
  */
 int main()
 {
-	char *filename = "image.jpg"; /* 画像ファイル名 */
+	char *filename = "mandrill.jpg"; /* 画像ファイル名 */
 	BYTE *data = NULL; /* 中身の無いポインタはNULL(=0)にしておく */
 	int imageSize = 0;     /* 画像データのサイズ */
 	int i;                 /* 繰り返し用 */
